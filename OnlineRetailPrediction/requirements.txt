@@ -5,3 +5,5 @@ Seaborn
 scikit-learn
 openpyxl
 tensorflow
+tensorflow-recommenders
+surprise
